@@ -1,0 +1,9 @@
+PreShapeMode			1
+
+InputPostFileName		hat
+InputPostFileFormat		off
+
+InputPreFileName		spherical_cap_2.6_0.2_6000
+InputPreFileFormat		off
+
+End

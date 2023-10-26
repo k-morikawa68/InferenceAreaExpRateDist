@@ -1,0 +1,6 @@
+*.out
+*.o
+*.dat
+*.vtk
+*.off
+test*/*
