@@ -1,12 +1,6 @@
 #ifndef _HALFEDGEMESH_H_
 #define _HALFEDGEMESH_H_
 
-// EdgeCollapse, EdgeSplitで新たに定められる頂点位置は、
-// ちゃんと立体に沿う位置にすべきなので、要修正
-
-// EdgeCollapse, EdgeFlipはできない場合があるので、
-// そういう場合はfalseを返すような感じで書くべき？
-
 // 参考: https://mitani.cs.tsukuba.ac.jp/lecture/jikken/polygon_operation.pdf 
 
 #include <vector>
