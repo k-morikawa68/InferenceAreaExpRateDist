@@ -4,3 +4,4 @@
 *.vtk
 *.off
 test*/*
+!*/input/*.off
