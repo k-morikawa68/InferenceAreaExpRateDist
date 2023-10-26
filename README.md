@@ -1,5 +1,7 @@
 # Inference Area Expansion Rate Distribution
 
+This code provides a tool for inferring the area expansion rate distribution, which governs the growth of surfaces into 3D morphology.
+
 Any work which utilizes this code shall include the following reference:
 
 Morikawa, K., Morita, S., Sakura, K., Maeno, A., Gotoh, H., Niimi, T. & Inoue, Y. 
